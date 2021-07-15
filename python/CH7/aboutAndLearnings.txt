@@ -1,0 +1,15 @@
+************************* Pattern Matching With Regular Expressions *************************
+
+*** Notes ***
+
+> Regular Patterns allow you to specify a pattern of text to search for.
+> 
+
+
+>By the end of Chapter: Write a program that can automatically extract phone numbers and email addresses from a block of text.
+
+
+
+*** Basic python concepts used ***
+
+>python functions
